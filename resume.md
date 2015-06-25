@@ -6,7 +6,43 @@ bien commun qu’est notre cadre de travail. C’est faire le choix de ne plus s
 
 Une fois la question du temps réglée (ou du moins considérée), restait celle de l’espace. « Vous êtes où ? » est souvent la première question que je pose en visioconférence avec mes collègues et elle n’est pas anodine. Elle me rappelle le « Tu es où ? » de la découverte des téléphones portables désormais caduque. Elle traduit la découverte d’une nouvelle pratique.
 
-Stéphane sur le nomadisme
+Nous avons monté scopyleft à Clapiers petit village péri-urbain au Nord de Montpellier. Au milieu des pins en regardant les écureuils, on expérimentait le slow-working permanent dans un endroit de vie professionnel et familial. À Clapiers, pas de cloison entre le boulot et la vie personnelle. Des ados, les clients, les concurrents : nos pairs, le Go et les post-it®, les repas, des ateliers techniques, de la musique et des confs-call.
+
+En décembre, le lieu pouvait se stabiliser comme tiers-lieu ou disparaitre. On a lancé une pièce… on a quitté le campement.
+
+Ma nouvelle question préférée : "Où me poser pour tapoter ?"
+
+Depuis janvier, avec cette petite question, 57 lieux ouverts dans 8 villes qui n'ont révélées qu'une infime partie de leurs secrets - Montpellier, Toulon, Marseille, Barcelone, Bordeaux, Arles, Nantes, Paris.
+
+On débarque un dimanche après midi à Bordeaux par exemple, "Où tapoter ?". Les premiers endroits sont classiques : la brasserie des Arts, le starBuck au dernier étage de la Fnac™. Le lendemain on passe à la visite des coworkings.
+
+Journée abhorrée, je le fais pour vérifier une hypothèse : "Les coworkings d'aujourd'hui sont les cybercafés d'hier, des endroits qui ne répondent pas vraiment aux besoins qu'ils pointent". Je n'aime pas le côté guilde, l'entre-soi, et la volonté en filigrane de reproduire l'ambiance des bureaux. 
+
+À partir du  3ème jour ça devient vivifiant, les endroits insolites se laissent approchés : le garage moderne (ressourcerie et garage automobile coopératif), le CAPT (musée d'Art contemporains), la philomatique, l'Asile un ancien sex-shop reconverti en tiers-lieu qui abrite, pêle-mêle un tailleur de pierre, un graffeur de toile photoluminescence, un photographe expert en light-painting. En vrac, d'autres endroits approchés : une maison de retraite (très pratiques le dimanche), les tennis de la Jalade et ses cours en terre battue, le jardin des plantes de Toulouse, le Gédéon en bord de plage, Anglas, un camping bio sur les bords de l'hérault utilisable en basse saison évidemment.
+
+Certains de ces lieux sont référencés sur le site d'Antoine Vernois : devfriendlyplaces.net
+
+Dire non à quelque chose, c'est dire oui à pleins d'autres choses. En quittant les bureaux, de nouveaux patterns sont apparus, avec Lilian Ricaud, un autre tapoteur itinérant, nous commençons à les référencer. 
+
+- Ouvrir un lieu :
+1- Est-ce que je peux visiter ?
+2- Est-ce que je peux tapoter ?
+3- Est-ce que je peux utiliser le wifi ?
+4- Est-ce que je peux revenir ?
+5- Et avec d'autres tapoteurs ?
+
+- Marche créative :
+Pour approfondir un sujet, à deux on flâne en papotant dans la ville, et quand un endroit nous parle, on s'arrête pour converger.
+
+Formation itinérante :
+- On utilise cette pratique pour casser le format des formations. 
+Descendre avec douze élèves 7km au fond d'une grotte pour coller des post-it® provoque une focalisation inhabituelle ;)
+
+Tiers-lieu éphémère :
+À la manière des ready-made, on déclare un lieu comme co-working.
+Cette année, nous avons organisé DevOpenSud sur ce modèle. On a loué deux gites pendant quatre jours en haute-ariège, pour travailler, échanger et jouer.
+
+En ce moment, dans scopyleft, nous sommes trois, mais où est  Vincent ? En Sardaigne, il n'est pas là car il fait la même chose en prenant le monde comme terrain d'expérimentation.
 
 La courbe du chômage augmente, inexorablement et malgré toutes les promesses vaines des politiques. Et c’est finalement une bonne chose, c’est même un objectif en soi si on y réfléchit bien. L’automatisation met fin au plein emploi et c’est une excellente nouvelle pour l’humanité : enfin le moment de s’absoudre des tâches répétitives, usantes, dégradantes. Elle a eue lieue dans l’agronomie puis l’industrie et elle se répand aujourd’hui dans les services. Elle est bénéfique sous réserve
 d’avoir une activité et un niveau de vie décents bien sûr. L’une des solutions pourrait être le Revenu de Base qui fournirait à tout un chacun une base de revenu universel et inconditionnel. Cela ouvre la porte à une multitude de métiers créatifs et épanouissants qui créent de la valeur, mais différente de celle des robots. Il s’agit ici d’un choix politique dont tous les citoyens doivent prendre conscience pour consentir à une solution commune.
