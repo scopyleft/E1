@@ -1,0 +1,30 @@
+Est-ce que je suis en train de travailler ? Est-ce que j’étais en train de travailler cette nuit en résolvant un bug ? Est-ce que j’étais en train de travailler sous la douche en préparant cette introduction ? Est-ce que vous êtes en train de travailler en assistant à cette conférence ? Est-ce que vous étiez en train de travailler ce weekend en réfléchissant à la réponse d’un mail professionnel ? Le travail ne consiste plus à être employé pendant 35 heures par semaine mais devient beaucoup
+plus perméable et fait partie intégrante de nos vies. Le numérique a participé à l’accélération de ce processus, au moins pour les métiers demandant de la créativité.
+
+Afin de s’émanciper de ce nouveau rapport au temps, nous avons créé une SCOP il y a 3 ans. Une SCOP est une société coopérative dont tous les employés sont généralement associés et ont le même poids dans les décisions de l’entreprise. C’est une déclinaison démocratique de l’entreprise qui permet de remettre l’humain — et non le capital — au centre. Oubliés les RTT, vacances, weekends ou jours fériés, on se fait suffisamment confiance pour savoir que chacun utilise son temps pour le
+bien commun qu’est notre cadre de travail. C’est faire le choix de ne plus subir la perméabilité du travail mais de s’adapter à ce nouveau mode de vie. En sachant écouter son corps pour rester dans un rythme soutenable, en apprenant à combiner les intérêts de chacun.
+
+Une fois la question du temps réglée (ou du moins considérée), restait celle de l’espace. « Vous êtes où ? » est souvent la première question que je pose en visioconférence avec mes collègues et elle n’est pas anodine. Elle me rappelle le « Tu es où ? » de la découverte des téléphones portables désormais caduque. Elle traduit la découverte d’une nouvelle pratique.
+
+Stéphane sur le nomadisme
+
+La courbe du chômage augmente, inexorablement et malgré toutes les promesses vaines des politiques. Et c’est finalement une bonne chose, c’est même un objectif en soi si on y réfléchit bien. L’automatisation met fin au plein emploi et c’est une excellente nouvelle pour l’humanité : enfin le moment de s’absoudre des tâches répétitives, usantes, dégradantes. Elle a eue lieue dans l’agronomie puis l’industrie et elle se répand aujourd’hui dans les services. Elle est bénéfique sous réserve
+d’avoir une activité et un niveau de vie décents bien sûr. L’une des solutions pourrait être le Revenu de Base qui fournirait à tout un chacun une base de revenu universel et inconditionnel. Cela ouvre la porte à une multitude de métiers créatifs et épanouissants qui créent de la valeur, mais différente de celle des robots. Il s’agit ici d’un choix politique dont tous les citoyens doivent prendre conscience pour consentir à une solution commune.
+
+Notre modèle économique est totalement exploratoire. Nous essayons de combiner bien-être, projets utiles et survie économique. Le tout en ne renonçant pas à notre éthique. Cela passe par de la formation, de la stratégie, de l’expertise, de l’accompagnement, du développement spécifique, de la co-construction de produits, de la prise de risque. C’est instable par nature et c’est ce qui nous permet d’avoir une longueur d’avance. C’est aussi ce qui nous éloigne de toute forme d’automatisation
+possible. Les métiers du numérique sont en avance dans ce domaine, nous avons le pouvoir d’automatiser les tâches qui nous semblent répétitives et de les partager. C’est une chance car cela nous permet de montrer l’exemple à d’autres secteurs : l’Open-Source et les biens communs permettent de focaliser notre attention sur ce qui apporte réellement de la valeur tout en donnant un sens au surcoût ponctuel de la production de ces outils.
+
+Stéphane sur les exemples concrets
+
+Cette nouvelle façon de travailler remet en cause l’éducation. Quels enseignements sont adaptés à une telle forme d’activité ? Sûrement pas l’actuel qui transforme nos enfants en petits robots assis à des bureaux pour effectuer de manière isolée des tâches répétitives. Qui encourage la compétition et l’accumulation de savoirs sans intérêt pour le monde de demain. Au contraire, il s’agit de laisser la pleine expression à leur créativité et à leur collaboration, d’expérimenter pour
+acquérir les concepts. Les écoles dites alternatives — bien qu’élitistes — font des propositions dans ce domaine. Nous n’avons pas besoin de réformes mais d’une refonte en profondeur. Car si l’on va plus loin, cela remet en cause le système pyramidal actuel pour aller vers un graphe de relations, à l’image du Web. L’entreprise passe d’un modèle hiérarchique et permanent à un regroupement égalitaire et ponctuel. L’administration passe d’un modèle centralisé et impersonnel à un modèle distribué
+et adapté. Les relations de pouvoir cèdent place aux affinités et motivations communes.
+
+Je donne actuellement des cours à l’IUT d’Arles et il est affligeant de constater la faible initiative qu’il y a chez les étudiants en 3e année de licence. Ils ont été formatés toute leur scolarité par cette relation élève-professeur, apprenant-sachant qui leur ôte toute curiosité. C’est terrible car seuls quelques uns arrivent à aller au-delà de ce rapport pour gagner en autonomie, exceptionnellement en groupe. J’ai essayé plusieurs pratiques issues de l’agilité pour essayer de les rendre
+acteurs de leur acquisition de savoirs. Les résultats obtenus au cours de cette première année n’ont pas été concluants mais cela m’a donné des pistes pour l’année prochaine et l’expérience se poursuit.
+
+Stéphane sur les enjeux
+
+Ce qui nous distingue fondamentalement des robots est notre capacité à rêver. Même si certains sentiments peuvent être déterminés de manière algorithmique en se basant sur suffisamment de données, le rêve est ce qui nous permet de nous projeter et ce qui fait de nous des humains. Le numérique nous offre la possibilité de partager nos rêves et de se fédérer facilement autour de projets innovants et de valeurs communes.
+
+Je rêve d’un monde qui nous permette de concrétiser nos rêves. D’un travail qui combine épanouissement, créativité et respect. La transition est là, de quoi rêvez-vous ?
