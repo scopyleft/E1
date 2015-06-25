@@ -10,7 +10,7 @@ Nous avons monté scopyleft à Clapiers petit village péri-urbain au Nord de Mo
 
 En décembre, le lieu pouvait se stabiliser comme tiers-lieu ou disparaitre. On a lancé une pièce… on a quitté le campement.
 
-Ma nouvelle question préférée : "Où me poser pour tapoter ?"
+| Ma nouvelle question préférée : "Où me poser pour tapoter ?"
 
 Depuis janvier, avec cette petite question, 57 lieux ouverts dans 8 villes qui n'ont révélées qu'une infime partie de leurs secrets - Montpellier, Toulon, Marseille, Barcelone, Bordeaux, Arles, Nantes, Paris.
 
@@ -20,7 +20,7 @@ Journée abhorrée, je le fais pour vérifier une hypothèse : "Les coworkings d
 
 À partir du  3ème jour ça devient vivifiant, les endroits insolites se laissent approchés : le garage moderne (ressourcerie et garage automobile coopératif), le CAPT (musée d'Art contemporains), la philomatique, l'Asile un ancien sex-shop reconverti en tiers-lieu qui abrite, pêle-mêle un tailleur de pierre, un graffeur de toile photoluminescence, un photographe expert en light-painting. En vrac, d'autres endroits approchés : une maison de retraite (très pratiques le dimanche), les tennis de la Jalade et ses cours en terre battue, le jardin des plantes de Toulouse, le Gédéon en bord de plage, Anglas, un camping bio sur les bords de l'hérault utilisable en basse saison évidemment.
 
-Certains de ces lieux sont référencés sur le site d'Antoine Vernois : devfriendlyplaces.net
+| Certains de ces lieux sont référencés sur le site d'Antoine Vernois : devfriendlyplaces.net
 
 Dire non à quelque chose, c'est dire oui à pleins d'autres choses. En quittant les bureaux, de nouveaux patterns sont apparus, avec Lilian Ricaud, un autre tapoteur itinérant, nous commençons à les référencer. 
 
@@ -34,7 +34,7 @@ Dire non à quelque chose, c'est dire oui à pleins d'autres choses. En quittant
 - Marche créative :
 Pour approfondir un sujet, à deux on flâne en papotant dans la ville, et quand un endroit nous parle, on s'arrête pour converger.
 
-Formation itinérante :
+- Formation itinérante :
 - On utilise cette pratique pour casser le format des formations. 
 Descendre avec douze élèves 7km au fond d'une grotte pour coller des post-it® provoque une focalisation inhabituelle ;)
 
@@ -50,7 +50,33 @@ d’avoir une activité et un niveau de vie décents bien sûr. L’une des solu
 Notre modèle économique est totalement exploratoire. Nous essayons de combiner bien-être, projets utiles et survie économique. Le tout en ne renonçant pas à notre éthique. Cela passe par de la formation, de la stratégie, de l’expertise, de l’accompagnement, du développement spécifique, de la co-construction de produits, de la prise de risque. C’est instable par nature et c’est ce qui nous permet d’avoir une longueur d’avance. C’est aussi ce qui nous éloigne de toute forme d’automatisation
 possible. Les métiers du numérique sont en avance dans ce domaine, nous avons le pouvoir d’automatiser les tâches qui nous semblent répétitives et de les partager. C’est une chance car cela nous permet de montrer l’exemple à d’autres secteurs : l’Open-Source et les biens communs permettent de focaliser notre attention sur ce qui apporte réellement de la valeur tout en donnant un sens au surcoût ponctuel de la production de ces outils.
 
-Stéphane sur les exemples concrets
+L'observatoire du travail nous indique que 30% des taches répétitives disparaissent tous les ans.
+
+| Le covoiturage est un bon laboratoire pour vérifier ce genre de marqueur.
+
+Pour qualifier les tâches qui ne sont pas répétitives, j'essaye de les passer au filtre d'un "et si..." - "Et si j'essayais avec un rond ? Ou en forçant le trait ? Et si j'enlevais les pieds ?".
+
+C'est un petit détail qui crée ses impacts. Par exemple un management basé sur le contrôle et la subordination devient, dans ce contexte, *contre-productif*. Demander à un créatif de focaliser sur son travail c'est définitivement *contre-productif*. 
+
+| Dans un contexte de "...et si", le nouveau manager ne doit plus gêner ses équipes, il laisse son rôle de difficultateur et endosse celui de faciliteur.
+
+C'est intéressant d'observer les jeunes organisations utiliser naturellement des pratiques adaptées. Ça pourrait même devenir une activité : l'éthologie des nouveaux barbares.
+
+Certains ont naturellement ré-interrogé le code du travail : plus d'horaires cadrées, plus de lien de subordination, pas de feuille de mission, des entretiens annuels hebdomadaires, les prises de décisions stratégiques confiées à l'équipe.
+
+On peut également s'amuser à écouter les signaux faibles. Déranger un "et si..." pendant qu'il expérimente, c'est risqué. Il ne retrouvera peut-être jamais la sonde qu'il vient de jeter dans l'espace. Combien de petit prince sont mort avec cette phrase fatale : "Est-ce que je peux t'interrompre" ?
+
+Beaucoup des pratiques et outils collaboratifs répondent aux questions posées par l'écoute de ces signaux faibles : Kanban, Slack, les Innovations Game, Trello, Running Lean, l'Impact Mapping, le Story Mapping.
+
+D'un autre côté, nous sommes dans une période grise ou les temps modernes de Chaplin se superposent à un nouveau paradigme encore inexploré. Cela produit parfois de jolis précipités.
+
+Si ça n'aggravait pas la souffrance au travail, ce serait assez amusant d'observer ces malformations collaboratives :
+
+- Les grands groupes qui s'encombrent avec l'Agilité en détournant l'invitation pour se concentrer presque exclusivement sur la vélocité ou sur les indicateurs.
+
+- Les incubateurs institutionnels qui maltraitent l'innovation en orientant les porteurs vers la pratique du pitch, les prédictions à trois ans et la séduction d'investisseurs.
+
+Ces couacs devraient peu à peu se ringardiser, les anciennes recettes fonctionnant un peu moins bien dans les contextes émergents : un nouveau genre de Darwinisme collaboratif.
 
 Cette nouvelle façon de travailler remet en cause l’éducation. Quels enseignements sont adaptés à une telle forme d’activité ? Sûrement pas l’actuel qui transforme nos enfants en petits robots assis à des bureaux pour effectuer de manière isolée des tâches répétitives. Qui encourage la compétition et l’accumulation de savoirs sans intérêt pour le monde de demain. Au contraire, il s’agit de laisser la pleine expression à leur créativité et à leur collaboration, d’expérimenter pour
 acquérir les concepts. Les écoles dites alternatives — bien qu’élitistes — font des propositions dans ce domaine. Nous n’avons pas besoin de réformes mais d’une refonte en profondeur. Car si l’on va plus loin, cela remet en cause le système pyramidal actuel pour aller vers un graphe de relations, à l’image du Web. L’entreprise passe d’un modèle hiérarchique et permanent à un regroupement égalitaire et ponctuel. L’administration passe d’un modèle centralisé et impersonnel à un modèle distribué
